@@ -1,4 +1,4 @@
 # UnityFrenchLesson
 Lesson in French about the Unity Game Engine
 
-Made for Strate College
+Start [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/Exercise.md) !
