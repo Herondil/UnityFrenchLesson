@@ -21,7 +21,8 @@ Exercice 1 :
 		-> Un clone avec un étage en plus
 		-> Un terrain
 		-> Ajouter un controler et se promener dans le village
-		
+
+	->> Exporter un Prefab de bâtiment, mettre dans le même dossier tous les éléments requis par le prefab		
 		
 Exercice 2 :
 
@@ -32,6 +33,8 @@ Exercice 2 :
 		-> Détecter l'entrée du joueur dans un de ces triggers
 		-> A l'entrée d'une de ces zones, afficher un message dans la console
 		-> Construire un trou avec un autre trigger, détecter l'entrée dedans et afficher un message de gameover
+
+	->> Exporter un Prefab contenant une ligne d'arrivée, ou un piège
 		
 		
 Exercice 3 :
@@ -39,14 +42,34 @@ Exercice 3 :
 	- Construire un canon !
 		-> Construire une dale colorée légèrement surélevée
 		-> Poser un Trigger dessus qui s'enclenche quand on le touche
+		-> Le trigger donne une force à un objet qui le fait décoller, par exemple une sphère
+	
+	->> Exporter un Prefab contenant le canon
+
+
+Exercice 4 :
 		
 	- Construire un mur à détruire par le canon :
-		-> Le parcours du joueur se retrouve entravé par un mur qu'il ne peut passer
-		-> Pour détruire ce mur, il va devoir activer le canon qui va tirer une balle sur le mur et le faire tomber
-		-> Faire un mur en assemblant des formes simples (cubes, spheres, plans ...)
-		-> Faire un mur plus complexe, en utilisant des "Joints"
+		-> Pour détruire ce mur, il va falloir  activer le canon qui va tirer une balle sur le mur et le faire tomber
+		-> Faire un mur en assemblant des formes simples (cubes, sphère, cylindres, ...)
+		-> Faire une fenêtre dans le mur, empêcher les blocs du dessus de tomber grâce des "Joints"
+
+	->> Exporter un Prefab contenant le mur
 		
-	- Constuire un moulin
-	- Constuire une forme composée de plusieurs éléments simples
-	- Constuire un catapulte
+
+Exercice 5 :
+
+	- Constuire un moulin :
+		- Contruire 4 piliers au sol
+		- Poser dessus une croix, construite en assemblant deux cubes
+		- Poser sur la croix un cylindre, joints à la croix
+		- Sur ce cylindre, poser un autre cylindre sur lequel sonts joints des pales
+		- Configurer un joint pour que le second cylindre tourne en étant collé au premier
+	
+	->> Exporter un Prefab contenant le moulin
+	
+
+Exercice 6 :
+
+	- Constuire une catapulte à roulette
 			
