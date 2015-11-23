@@ -1,5 +1,7 @@
 Contact 	: Maxens Dubois
+
 mail       	: maxens.dubois@gmail.com
+
 réseau		: Maxens Dubois sur Facebook, LinkedIn, Viadéo
 
 Projet :
