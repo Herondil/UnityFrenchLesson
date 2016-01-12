@@ -103,3 +103,4 @@ Exercice 7 bis :
 		 	- Une souris qui court par terre
 		 	- Des lumières qui scintillent
 		 	- Le balancier d'une pendule
+		 	- Des boites sensibles à la physique
