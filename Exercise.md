@@ -69,9 +69,25 @@ Exercice 5 :
 		- Configurer un joint pour que le second cylindre tourne en étant collé au premier
 	
 	->> Exporter un Prefab contenant le moulin
-	
 
 Exercice 6 :
 
-	- Constuire une catapulte à roulette
-			
+	- Constuire une catapulte à roulette :
+		- Le chassis en forme de H
+		- 4 roues en forme de boule (avec un sphere collider) avec les bons joints
+		- Une cuillère avec de quoi poser une boule
+		- Lancer un projectile, avec AddForce ou AddTorque
+		
+	->> Exporter le prefab contenant la catapulte
+
+	
+Exercice 7 :
+	
+	- Contruire une maison :
+		- Au niveau du sol, sur un terrain
+		- Ajouter une porte
+		- Enlever la lumière par défaut et ajouter de l'éclairage à l'intérieur
+		- Utiliser Animator pour créer et lancer une Animation d'ouverture de porte
+		- Ajouter un FPS controler
+		
+	->> Exporter la porte et son animation
