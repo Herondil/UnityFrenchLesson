@@ -91,3 +91,15 @@ Exercice 7 :
 		- Ajouter un FPS controler
 		
 	->> Exporter la porte et son animation
+
+
+Exercice 7 bis :
+
+	- Continuer à travailler sur cette maison :
+		 - Ajouter un Trigger qui déclenche l'ouverture de la porte quand on rentre dedans
+		 - Ajouter un étage, plusieurs pièces à explorer
+		 - Animer quelques objets dans la maison :
+		 	- Des poissons dans un aquarium
+		 	- Une souris qui court par terre
+		 	- Des lumières qui scintillent
+		 	- Le balancier d'une pendule
