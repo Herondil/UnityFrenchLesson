@@ -93,7 +93,7 @@ Exercice 7 :
 	->> Exporter la porte et son animation
 
 
-Exercice 7 bis :
+Exercice 8 :
 
 	- Continuer à travailler sur cette maison :
 		 - Ajouter un Trigger qui déclenche l'ouverture de la porte quand on rentre dedans
@@ -104,3 +104,16 @@ Exercice 7 bis :
 		 	- Des lumières qui scintillent
 		 	- Le balancier d'une pendule
 		 	- Des boites sensibles à la physique
+	
+	->> Exporter les objets
+
+
+Exercice 9 :
+
+	- Construire un ascenseur :
+		- Construire une plateforme animée qui monte
+		- Déclencher l'animation quand on monte sur la plateforme
+		- Faire une animation qui accélère au début et décélère à la fin
+		- Prévoir un second trigger pour accéder à un autre étage
+	
+	->> Exporter l'ascenseur
