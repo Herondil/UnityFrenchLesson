@@ -24,7 +24,7 @@ Sur les prefabs :
 - Utilisation des ressources crées par les autres élèves
 
 
-> Procédure d'export :
+> Procédure d'export: 
 
 >  1. Glisser le GameObject conteneur dans la fenêtre "Project"
 >  2. Clic droit sur l'objet dans la fenêtre "Project" puis "Select Depedencies" pour voir toutes les ressources nécessaires au Prefab
