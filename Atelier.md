@@ -3,7 +3,7 @@
 
 L'objectif de cet exercice est la construction d'un décor urbain dans lequel se promener à la première personne.
 
-Chaque élève livrera un décor, assemblage d'un terrain et d'objets, créés par lui même et le reste de la classe, en utilisant les "prefabs".
+Chaque élève travaillera sur un décor, assemblage d'un terrain et d'objets, créés par lui même et le reste de la classe, en utilisant les "prefabs".
 
 
 Consignes :
@@ -15,23 +15,23 @@ Consignes :
 - Remplir les pièces
 - Construire des prefabs de maison
 
-Notation :
+Attentes :
 - Qualité des prefabs :
 		- Tout tient dans un Objet "conteneur" avec le scale à 1 et la rotation par défaut
 		- La hiérarchie des objets est organisée en sous-groupe de conteneur
 		- Les dépendances du prefabs sont dans un même dossier (material, mesh, texture ...)
 - Utilisation des ressources crées par les autres élèves
 
-formule des prefabs
+Liste des prefabs
 
-1 mur
-1 sol
-1 plafond
-1 piece vide
-3 objets statiques
-1 animation physique
-1 animation précalculée
-1 pièce remplie
+- 1 mur
+- 1 sol
+- 1 plafond
+- 1 piece vide
+- 3 objets statiques
+- 1 animation physique
+- 1 animation précalculée
+- 1 pièce remplie
 
 
 
