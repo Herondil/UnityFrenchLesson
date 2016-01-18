@@ -15,14 +15,25 @@ Consignes :
 - Remplir les pièces
 - Construire des prefabs de maison
 
-Attentes :
-- Qualité des prefabs :
-		- Tout tient dans un Objet "conteneur" avec le scale à 1 et la rotation par défaut
-		- La hiérarchie des objets est organisée en sous-groupe de conteneur
-		- Les dépendances du prefabs sont dans un même dossier (material, mesh, texture ...)
+Sur les prefabs :
+- Organisation :
+	- Tout tient dans un objet "conteneur" avec le scale à 1, la position et la rotation à zéro
+	- La hiérarchie des objets est organisée en sous-groupe de conteneurs avec les réglages du dessus
+	- Les dépendances du prefabs sont dans un même dossier (material, mesh, texture ...)
+	- Le package contient ce dossier
 - Utilisation des ressources crées par les autres élèves
 
-Liste des prefabs
+
+> Procédure d'export :
+
+>  1. Glisser le GameObject conteneur dans la fenêtre "Project"
+>  2. Clic droit sur l'objet dans la fenêtre "Project" puis "Select Depedencies" pour voir toutes les ressources nécessaires au Prefab
+>  3. S'assurer que toutes les ressources et le Prefab sont dans le même dossier
+>  4. Clic droit sur le dossier, puis "Export Package"
+>  5. Sélectionner le dossier et tout son contenu, puis "Export ..." en bas à droite
+>  6. Donner un nom de fichier et valider la création du package
+
+Liste des prefabs :
 
 - 1 mur
 - 1 sol
@@ -36,3 +47,4 @@ Liste des prefabs
 
 
 > Written with [StackEdit](https://stackedit.io/).
+
