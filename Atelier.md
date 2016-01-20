@@ -19,6 +19,8 @@ Sur les prefabs :
 - Organisation :
 	- Tout tient dans un objet "conteneur" avec le scale à 1, la position et la rotation à zéro
 	- La hiérarchie des objets est organisée en sous-groupe de conteneurs avec les réglages du dessus
+	- Les objets sont nommés
+	- Les objets similaires sont bien regroupés dans des conteneurs
 	- Les dépendances du prefabs sont dans un même dossier (material, mesh, texture ...)
 	- Le package contient ce dossier
 - Utilisation des ressources crées par les autres élèves
