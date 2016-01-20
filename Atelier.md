@@ -46,7 +46,8 @@ Liste des prefabs :
 - 1 animation précalculée
 - 1 pièce remplie
 
-
+Clé du rendu : 
+AFHGUXFN4IKRX54BTAR3OEYAU45UE54ES
 
 > Written with [StackEdit](https://stackedit.io/).
 
