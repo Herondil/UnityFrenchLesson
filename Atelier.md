@@ -28,6 +28,7 @@ Sur les prefabs :
 
 > Procédure d'export: 
 
+>  0. Mettre tout les assets dans un dossier à son prénom-Nom
 >  1. Glisser le GameObject conteneur dans la fenêtre "Project"
 >  2. Clic droit sur l'objet dans la fenêtre "Project" puis "Select Depedencies" pour voir toutes les ressources nécessaires au Prefab
 >  3. S'assurer que toutes les ressources et le Prefab sont dans le même dossier
