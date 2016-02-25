@@ -9,7 +9,9 @@ Programme du second semestre
 - Custom editor
 
 
-Anmation composée 
+Animation composée :
+- Créer une animation avec 6 dalles au sol qui bougent dans une seule et même animation
+
 
 Faire des boutons :
   - Bonjour
