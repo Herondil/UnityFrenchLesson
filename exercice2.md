@@ -7,3 +7,13 @@ Programme du second semestre
 - Level Design et travail de décor
 - Particules
 - Custom editor
+
+
+Anmation composée 
+
+Faire des boutons :
+  - Bonjour
+  - Aurevoir
+  - Dire son nom
+  - Dire qu'on est badass
+  - Bouger à gauche, à droite
