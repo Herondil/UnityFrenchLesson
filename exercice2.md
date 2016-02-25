@@ -6,4 +6,4 @@ Programme du second semestre
 - Skinned Mesh
 - Level Design et travail de décor
 - Particules
-- Custome editor
+- Custom editor
