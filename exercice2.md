@@ -34,3 +34,10 @@ Sur 3 après-midi, pour appréhender la programmation, faire des boutons dans l'
 En deux après-midi consécutives, réaliser ce jeu abstrait :
      
           - Créer un labyrinthe en éloignant la caméra, dans lequel on déplace un carré avec la manette
+
+Créer dans un décor vide :
+
+          - Un terrain avec dessus une boule contrôlée à la manette
+          - Programmer le déplacement pour que la caméra suive la boule dans le décor
+          - La caméra doit toujours faire face à la boule, et rester à la même distance
+          - Il doit y avoir un seul Objet camera à la racine de la scène
