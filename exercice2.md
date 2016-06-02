@@ -39,5 +39,14 @@ Créer dans un décor vide :
 
           - Un terrain avec dessus une boule contrôlée à la manette
           - Programmer le déplacement pour que la caméra suive la boule dans le décor
-          - La caméra doit toujours faire face à la boule, et rester à la même distance
+          - La caméra doit toujours être derrière la boule, et rester à la même distance
           - Il doit y avoir un seul Objet camera à la racine de la scène
+          - Ajouter un cylindre sur la boule et créer une caméra première personne
+
+Créer dans Unity un personnage composé (araignée) de cube selon cette image :
+
+
+          - Créer un décor sommaire
+          - Faire une animation de marche qui ne bouge que les jambes
+          - Déplacer ce personnage avec la manette/clavier 
+          - Avoir une caméra valide qui suit le personnage
