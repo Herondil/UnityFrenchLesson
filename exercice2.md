@@ -9,6 +9,17 @@ Programme du second semestre
 - Particules
 - Custom editor
 
+Programme de la seconde année :
+
+- Raycasting
+- Travail de la lumière
+- Propriété des materials
+- UI
+- Performances et optimisations
+- Multijoueur Réseau
+- Fonctionnalités C# (htmt request)
+- Animation simultannées et sub-state machine
+
 L'objectif principal est de créer à chaque fin de session un Game Object et de l'exporter dans un package, avec toutes ses dépendances et un readme.txt
 
 
