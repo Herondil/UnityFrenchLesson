@@ -46,7 +46,7 @@ Barème :
   - Règles de conception validées : 2 point
   - Une physique propre avec un "physic material" : 1 point
   
- - Plateforme avec des roues sur 5 points :
+- Plateforme avec des roues sur 5 points :
   - Concept unique à la classe : 1 point
   - Règles de conception validées : 2 point
   - Gestion des wheel colliders : 2 points
