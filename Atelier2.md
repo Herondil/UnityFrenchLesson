@@ -4,7 +4,7 @@
 L'objectif de ces deux jours est d'arriver à construire des objets que l'on pourra manipuler en VR comme des jouets d'enfant.
 
 La première journée sera consacrée à la création des objets, puis la seconde à la mise en commun des productions de la classe 
-pour que chacun ait une scène unique, représentant l'assaut d'un chateau fort.
+pour que chacun ait une scène unique, représentant une scène de guerre.
 
 Voici les objets à construire la première journée :
 
