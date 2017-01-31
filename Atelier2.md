@@ -11,9 +11,7 @@ Voici les objets à construire la première journée :
 - Une catapulte (une machine qui lance quelque chose), 
 - un projectile (lancé par la catapulte), 
 - une plateforme avec des roues pour poser la catapulte
-
-- Un morceau de murailles
-- Un donjon
+- Un morceau de mur à dupliquer, prêt à se briser
 - Une porte façon pont levis, avec des chaines
 
 Pour chaque objet, respecter les règles suivantes :
@@ -34,11 +32,12 @@ Barème :
 
 - Catapulte sur 10 points :
   - Concept unique à la classe : 1 point
-  - Règles de conception validées : 3 points
+  - Règles de conception validées : 2 points
   - Un animator capable avec des triggers de :
     - Lancer un tir - 2 points
     - Revenir à la position de départ pour être prêt à retirer - 2 points
     - Ajuster la direction du tir sur la hauteur et la direction 1 point chacun
+  - La Catapulte peut être brisée et ne plus marcher : 1 point
     
     
 - Projectile sur 4 points :
@@ -48,5 +47,10 @@ Barème :
   
 - Plateforme avec des roues sur 5 points :
   - Concept unique à la classe : 1 point
-  - Règles de conception validées : 2 point
+  - Règles de conception validées : 2 points
   - Gestion des wheel colliders : 2 points
+
+- Un morceau de muraille 4 points :
+  - Concept unique à la classe : 1 point
+  - Règles de conception validées : 2 points
+  - Placement des fixed joints pour l'effondrement : 1 point
