@@ -8,10 +8,13 @@ pour que chacun ait une scène unique, représentant l'assaut d'un chateau fort.
 
 Voici les objets à construire la première journée :
 
-Une catapulte (ou une machine qui lance quelque chose), 
-un projectile (lancé par la catapulte), 
-une plateforme avec des roues pour poser la catapulte
+- Une catapulte (ou une machine qui lance quelque chose), 
+- un projectile (lancé par la catapulte), 
+- une plateforme avec des roues pour poser la catapulte
 
-Un morceau de murailles
-Un donjon
-Une porte façon pont levis, avec des chaines
+- Un morceau de murailles
+- Un donjon
+- Une porte façon pont levis, avec des chaines
+
+
+La matinée de la seconde journée, il faudra construire une scène avec un chateau construit grâce aux objets de la journée d'avant sur un terrain, et essayer de faire un rail pour un train constitué des remorques avec dessus les catapultes.
