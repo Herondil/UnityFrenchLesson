@@ -12,7 +12,6 @@ Voici les objets à construire la première journée :
 - un projectile (lancé par la catapulte), 
 - une plateforme avec des roues pour poser la catapulte
 - Un morceau de mur à dupliquer, prêt à se briser
-- Une porte façon pont levis, avec des chaines
 
 Pour chaque objet, respecter les règles suivantes :
 - Conception :
