@@ -54,12 +54,12 @@ Barème :
   - Règles de conception validées : 2 points
   - Placement des fixed joints pour l'effondrement : 1 point
   
-- Terrain :
+- Terrain sur 6 points :
   - Concept du terrain : 1 point
   - Règles de conception validées : 1 point
   - Textures adaptées au relief : 2 points
   - Herbes et arbres : 2 points
   
-  Finalement : 
+  Finalement 3 points : 
   - Une scène jouable avec des éléments de tout le monde : 2 points
   - En VR : 1 point
