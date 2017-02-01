@@ -25,7 +25,7 @@ Pour chaque objet, respecter les règles suivantes :
  - Un ou plusieurs materials
  - Un prefab prêt à être utilisé
 
-La matinée de la seconde journée, il faudra construire une scène avec un chateau construit grâce aux objets de la journée d'avant sur un terrain, et essayer de faire un rail pour un train constitué des remorques avec dessus les catapultes.
+La matinée de la seconde journée, il faudra construire une scène avec un terrain, poser dessus les objets de la journée d'avant, et essayer de faire un train constitué des remorques avec dessus les catapultes.
 
 Barème :
 
@@ -53,3 +53,13 @@ Barème :
   - Concept unique à la classe : 1 point
   - Règles de conception validées : 2 points
   - Placement des fixed joints pour l'effondrement : 1 point
+  
+- Terrain :
+  - Concept du terrain : 1 point
+  - Règles de conception validées : 1 point
+  - Textures adaptées au relief : 2 points
+  - Herbes et arbres : 2 points
+  
+  Finalement : 
+  - Une scène jouable avec des éléments de tout le monde : 2 points
+  - En VR : 1 point
