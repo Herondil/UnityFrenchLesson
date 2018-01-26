@@ -3,7 +3,7 @@
 
 L'objectif de ce TP en deux séances de 3h est d'arriver à concevoir un jeu à pince géant en VR.
 
-Le premier cours consistera en la fabrication des gameobjects requis, et à la fin du secondf second au test du passage en VR avec le HTC Vive sur une scène utilisant tous les objets fabriqué.
+Le cours consistera en la fabrication des gameobjects requis, et à la fin du second second au test du passage en VR avec le HTC Vive sur une scène utilisant tous les objets fabriqué.
 
 Voici les objets à construire :
 
