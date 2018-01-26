@@ -1,64 +1,53 @@
 
 **Bonjour à tous !**
 
-L'objectif de ces deux jours est d'arriver à construire des objets que l'on pourra manipuler en VR comme des jouets d'enfant.
+L'objectif de ce TP en deux séances de 3h est d'arriver à concevoir un jeu à pince géant en VR.
 
-La première journée sera consacrée à la création des objets, puis la seconde à la mise en commun des productions de la classe 
-pour que chacun ait une scène unique, représentant une scène de guerre.
+Le premier cours consistera en la fabrication des gameobjects requis, et à la fin du secondf second au test du passage en VR avec le HTC Vive sur une scène utilisant tous les objets fabriqué.
 
-Voici les objets à construire la première journée :
+Voici les objets à construire :
 
-- Une catapulte (une machine qui lance quelque chose), 
-- un projectile (lancé par la catapulte), 
-- une plateforme avec des roues pour poser la catapulte
-- Un morceau de mur à dupliquer, prêt à se briser
+- Un objet à ramasser par la pince, 
+- Une pince animée qui va servir à ramasser l'objet (avec des rails), 
+- Un panneau de contrôle avec des touches, 4 pour les directions et 1 pour faire descendre la pince
 
 Pour chaque objet, respecter les règles suivantes :
 - Conception :
 	- Tout tient dans un objet "conteneur" avec le scale à 1, la position et la rotation à zéro
 	- La hiérarchie des objets est organisée en sous-groupe de conteneurs
-	- Les objets sont nommés, pas de noms par défaut ("mur", "sol", "cube", "sphere")
+	- Les objets sont nommés, pas de noms par défaut ("cube", "sphere","GameObject")
 	- Les objets similaires sont regroupés dans des conteneurs
 	- Les dépendances du prefabs sont dans un même dossier (material, mesh, texture ...)
 	- Le package contient ce dossier
  - Un fichier txt qui décrit l'objet
- - Un ou plusieurs materials
+ - Les éventuels materials
  - Un prefab prêt à être utilisé
 
-La matinée de la seconde journée, il faudra construire une scène avec un terrain, poser dessus les objets de la journée d'avant, et essayer de faire un train constitué des remorques avec dessus les catapultes.
+L'objectif est de pouvoir s'amuser à combiner les 3 objets de tout le monde dans une nouvelle scène, mixer un panneau de commande, une pince, et autant d'objet à ramasser qu'on le souhaite.
+
+Idéalement, après être tombée la pince ramène l'objet qu'elle a ramassé vers le joueur, pour qu'il puisse le récupérer via une trappe avec des portes battantes.
 
 Barème :
 
-- Catapulte sur 10 points :
+- Pince sur 8 points :
   - Concept unique à la classe : 1 point
   - Règles de conception validées : 2 points
   - Un animator capable avec des triggers de :
-    - Lancer un tir - 2 points
-    - Revenir à la position de départ pour être prêt à retirer - 2 points
-    - Ajuster la direction du tir sur la hauteur et la direction 1 point chacun
-  - La Catapulte peut être brisée et ne plus marcher : 1 point
+    - Déplacement dans les 4 directions - 2 points
+    - Descendre et pincer - 2 points
+    - Revenir à une position initiale et lacher l'objet - 1 point
     
-    
-- Projectile sur 4 points :
+- Objet à ramasser sur 4 points :
   - Concept unique à la classe : 1 point
   - Règles de conception validées : 2 point
   - Une physique propre avec un "physic material" : 1 point
-  
-- Plateforme avec des roues sur 5 points :
-  - Concept unique à la classe : 1 point
-  - Règles de conception validées : 2 points
-  - Gestion des wheel colliders : 2 points
 
-- Un morceau de muraille 4 points :
+- Pannneau de commande 5 points :
   - Concept unique à la classe : 1 point
   - Règles de conception validées : 2 points
-  - Placement des fixed joints pour l'effondrement : 1 point
+  - Utilisation du script pour activer les trigger de la pince - 1 point
+  - Il y a un effet de particules quand on touche un bouton - 1 point
   
-- Terrain sur 6 points :
-  - Concept du terrain : 1 point
-  - Règles de conception validées : 1 point
-  - Textures adaptées au relief : 2 points
-  - Herbes et arbres : 2 points
   
   Finalement 3 points : 
   - Une scène jouable avec des éléments de tout le monde : 2 points
