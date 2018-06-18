@@ -1,5 +1,5 @@
 # UnityFrenchLesson
-Lesson __in French__ about the Unity Game Engine
+Lesson _in French_ about the Unity Game Engine
 
 Start [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/Exercise.md) !
 
@@ -10,3 +10,5 @@ or
 [There](https://github.com/Herondil/UnityFrenchLesson/blob/master/Atelier2.md)
 or
 [Even there](https://github.com/Herondil/UnityFrenchLesson/blob/master/atelier3.md)
+
+Homework [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/HomeWork.md)
