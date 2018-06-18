@@ -22,7 +22,8 @@ Voici un sujet à réaliser en dehors des cours, pour valider ses compétences d
   - Un prefab pour un cadre, qui change de couleur quand on le touche     : 3 points
   - Un prefab d'une porte qui s'ouvre selon la composition du code        : 3 points
   - Un prefab d'un objet à déplacer avec le clavier, pour le test         : 2 points
-  - Option pour un avoir un code aléatoire                                : 2 points
+  - Option pour un avoir un code valide aléatoire                         : 1 point
+  - Option pour un avoir des couleur initiales aléatoires                 : 1 point
   
   
  Pour le rendu, mettre tous les objets dans des packages, et les insérer dans les dossier "Cadres", "Porte à code" et 
