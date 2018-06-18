@@ -19,7 +19,7 @@ Voici un sujet à réaliser en dehors des cours, pour valider ses compétences d
  
  Détails de la notation :
  
-  - Un prefab pour les cadres, qui change de couleur quand on le touche   : 3 points
+  - Un prefab pour un cadre, qui change de couleur quand on le touche     : 3 points
   - Un prefab d'une porte qui s'ouvre selon la composition du code        : 3 points
   - Un prefab d'un objet à déplacer avec le clavier, pour le test         : 2 points
   - Option pour un avoir un code aléatoire                                : 2 points
