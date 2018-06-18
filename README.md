@@ -1,9 +1,9 @@
 # UnityFrenchLesson
-Lesson in French about the Unity Game Engine
+Lesson __in French__ about the Unity Game Engine
 
 Start [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/Exercise.md) !
 
-Continue [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/Exercise2.md) !
+Continue [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/Exercice2.md) !
 
 Worshop [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/Atelier.md)
 or
