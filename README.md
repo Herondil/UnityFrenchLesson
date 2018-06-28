@@ -3,7 +3,7 @@ Lesson _in French_ about the Unity Game Engine
 
 Start [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/Exercise.md) !
 
-Continue [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/Exercice2.md) !
+Continue [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/exercice2.md) !
 
 Worshop [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/Atelier.md)
 or
