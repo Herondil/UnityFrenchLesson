@@ -37,7 +37,7 @@ Scoring :
 - Projectile 4 pts :
   - Unique concept : 1 pt
   - Above rules : 2 pts
-  - Usage of Probuilder : 1 point
+  - Funky joint : 1 point
   
   
 - Wheeled plateform 5 pts :
@@ -46,16 +46,17 @@ Scoring :
   - Wheel colliders : 2 pts
 
 
-- Piece of wall 4 points :
+- Piece of wall 5 points :
   - Unique concept : 1 pt
   - Above rules : 2 pts
   - Joints able to collapse : 1 pt
+  - Usage of Probuilder
 
 
-- Terrain 5 pts :
+- Terrain 3 pts :
   - Unique concept : 1 pt
-  - Textures : 2 pts
-  - Trees and grass : 2 pts
+  - Textures : 1 pts
+  - Trees and grass : 1 pts
  
  
  You should now be able to mix everything to create your own battlefied !
