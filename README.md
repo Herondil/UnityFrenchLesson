@@ -11,7 +11,7 @@ or
 or
 [Even there](https://github.com/Herondil/UnityFrenchLesson/blob/master/atelier3.md)
 
-Homework [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/HomeWork.md)
+Homework [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/HomeWork.md) and [Here](https://github.com/Herondil/UnityFrenchLesson/blob/master/HomeWork2.md)
 
 
 Lessons _in English_ !
