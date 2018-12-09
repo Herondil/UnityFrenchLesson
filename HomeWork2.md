@@ -14,20 +14,20 @@ Chaque objet doit valider les points suivants :
 
 Le train avance tout seul grâce au compononent "Constant force" et à une animation.
 
-- Wagon :
-  - Utilisation des wheel collider
-  - Création d'une porte fermée utilisant au moin un Hinge joint
-  - Le wagon possède un aniamtor avec un trigger capable de débloquer les portes avant et arrière
+- Wagon : 5 pt
+  - Utilisation des wheel colliders
+  - Création d'une porte fermée utilisant au moins un Hinge joint
+  - Le wagon possède un animator avec un trigger capable de débloquer les portes avant et arrière
 
-- Locomotive :
+- Locomotive : 5 pt
   - Comme le wagon, sauf que la porte est déjà ouverte
   - Animator capable avec des triggers d'accélerer ou de freiner  
 
-- Rail allant tout droit
+- Rail allant tout droit : 1 pt
 
-- Virage vers gauche et droite
+- Virage vers gauche et droite : 1 pt
 
-- Un aiguillage avec un animator pour mettre le rail en position A ou B
+- Un aiguillage avec un animator pour mettre le rail en position A ou B : 3pts
 
 Au final, il doit être possible de créer un terrain, de poser les rails, une locomotive avec quelques wagons, et recréer ainsi le jeu.
 
