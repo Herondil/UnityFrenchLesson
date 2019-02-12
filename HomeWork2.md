@@ -12,7 +12,7 @@ Chaque objet doit valider les points suivants :
 - Concept unique : 1 pt
 - Règles de conception : 2 pts
 
-Le train avance tout seul grâce au compononent "Constant force" et à une animation.
+Le train avance tout seul grâce au component "Constant force" et à une animation.
 
 - Wagon : 5 pt
   - Utilisation des wheel colliders
